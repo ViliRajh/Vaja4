@@ -1,0 +1,3 @@
+D:/STUDIJ/3_letnik/1_sem/ATURP/Vaja4/cmake-build-debug/CMakeFiles/Vaja4.dir
+D:/STUDIJ/3_letnik/1_sem/ATURP/Vaja4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STUDIJ/3_letnik/1_sem/ATURP/Vaja4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
