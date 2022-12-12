@@ -38,7 +38,7 @@ int main(int argc, char* argv[]) {
 
     fstream newfile;
     //newfile.open(argv[1], std::ios::in);
-    newfile.open("testni_primer1.txt", std::ios::in);
+    newfile.open("testni_primer3.txt", std::ios::in);
     if (! newfile.is_open()) {
         cout << "Error opening file";
         return 0;
